@@ -11,7 +11,7 @@ public class RecycleSeekerApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(RecycleSeekerApplication.class, args);
 
-		tedd
+		
 
 		
 	}
